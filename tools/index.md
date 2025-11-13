@@ -28,6 +28,7 @@ Want to view a Zarr? Use one of these.
 | ITKWidgets | [![image](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/InsightSoftwareConsortium/itkwidgets) | Python tool for interactively viewing images (ex. in Jupyter) | 
 | Microscopy Nodes |[![image](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/aafkegros/MicroscopyNodes) | [Blender](https://www.blender.org/) add-on for visualizing high-dimensional microscopy data | 
 | FIJI (MoBIE / BigDataViewer) | [<img src="https://www.google.com/s2/favicons?sz=256&domain_url=https://fiji.sc/" alt="FIJI logo" width="30" height="30">](https://mobie.github.io/) | [FIJI](https://fiji.sc/) plug-in for exploring and sharing big multi-modal image and associated tabular data | 
+| n5-ij | [![image](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/saalfeldlab/n5-ij) | A Fiji plugin for loading and saving image data to OME-Zarr and other formats supported by the N5 API. |
 | napari | [<img src="https://www.google.com/s2/favicons?sz=256&domain_url=https://napari.org/" alt="napari logo" width="30" height="30">](https://github.com/ome/napari-ome-zarr) | [napari](https://napari.org/) plug-in for viewing Zarr | 
 | Neuroglancer | [<img src="https://www.google.com/s2/favicons?sz=256&domain_url=https://google.com" alt="Neuroglancer logo" width="30" height="30">](https://github.com/google/neuroglancer) | A browser-based volume viewer | 
 | Viv (Avivator, Vizarr, Vitessce, ...) | [<img src="https://www.google.com/s2/favicons?sz=256&domain_url=https://vitessce.io/" alt="Viv logo" width="30" height="30">](https://github.com/hms-dbmi/viv) | A toolkit for interactive visualization of high-resolution, multiplexed bioimaging datasets. The viv toolkit is used by the [Avivator](https://avivator.gehlenborglab.org), [Vizarr](https://github.com/hms-dbmi/vizarr) and [Vitessce](http://vitessce.io) image viewers, among others | 
@@ -59,6 +60,7 @@ Check out the [readers and writers below](#zarr-readers--writers) to interact wi
 | EuBI-Bridge | [![image](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/Euro-BioImaging/EuBI-Bridge) | A tool for distributed conversion of microscopic image collections into the OME-Zarr format. |  
 | ITKIOOMEZarrNGFF | [![image](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/InsightSoftwareConsortium/ITKIOOMEZarrNGFF) | An ITK external module for IO of images stored in OME-Zarr file format. | Reading & Writing | 
 | multiscale-spatial-image | [![image](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/spatial-image/multiscale-spatial-image) | Generate a multiscale, chunked, multi-dimensional spatial image data structure that can serialized to OME-Zarr. | Reading & Writing | 
+| nf-omezarr | [![image](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/JaneliaSciComp/nf-omezarr) | A Nextflow pipeline for converting directories of images to OME-Zarr using bioformats2raw |
 | stack-to-chunk | [![image](https://github.githubassets.com/favicons/favicon.svg)](https://stack-to-chunk.readthedocs.io) | A Python library to convert stacks of 2D images to OME-Zarr with minimal memory use and maximum concurrency. |  
 | stack_to_multiscale_ngff | [![image](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/CBI-PITT/stack_to_multiscale_ngff) | A tool for converting multi-terabyte stacks of images into a multiscale OME-Zarr. |  
 
@@ -93,8 +95,10 @@ Tools that do not explicitly fit into any of the above categories (ex. Zarr comp
 
 | Name    | Link | Description |
 | -------- | ------- | ------- |
+| Fileglancer | [![image](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/JaneliaSciComp/fileglancer) | A webapp for browsing, sharing, and viewing OME-Zarr images. |
 | Fractal | [![image](https://github.githubassets.com/favicons/favicon.svg)](https://fractal-analytics-platform.github.io/) | A framework to process OME-Zarr data at scale with modular processing tasks and to prepare it for interactive visualization. |
 | Mastodon | [![image](https://github.githubassets.com/favicons/favicon.svg)](https://mastodon.readthedocs.io/) | A large-scale tracking and track-editing framework for large, multi-view images. |
 | Nyxus | [![image](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/PolusAI/nyxus) | A scalable library for calculating features from intensity-label image data. |
-| SpatialData | [![image](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/scverse/spatialdata) | An open and universal framework for processing spatial omics data. |
 | ome-zarr.js | [![image](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/BioNGFF/ome-zarr.js) | A JavaScript library for simple rendering of thumbnnails and images. |
+| SpatialData | [![image](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/scverse/spatialdata) | An open and universal framework for processing spatial omics data. |
+| Zarrcade | [![image](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/JaneliaSciComp/zarrcade) | Create searchable web-based OME-Zarr image galleries. |
