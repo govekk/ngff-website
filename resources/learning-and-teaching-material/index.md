@@ -2,7 +2,7 @@
 This section provides additional resources related to NGFF and OME-Zarr intended for both new and experienced users. 
 
 ## Introductory Guide
-* [An Introduction to OME-Zarr for Big Bioimaging Data](https://ome-zarr-book.readthedocs.io). Book explaining the theory and practice behind handling large bioimaging datasets using the OME-Zarr data format.
+* [The OME-Zarr Book: An Introduction to OME-Zarr for Big Bioimaging Data](https://ome-zarr-book.readthedocs.io). Book explaining the theory and practice behind handling large bioimaging datasets using the OME-Zarr data format.
 
 ## Hands-on Tutorials, Worked Examples and Training Materials
 * [Working with OME-Zarr NGFF](https://github.com/InsightSoftwareConsortium/GetYourBrainTogether/tree/main/HCK02_2023_Allen_Institute_Hybrid/Tutorials/WorkingWithOMEZarrNGFF). Tutorials with Zarr-python and ngff-zarr (Python). Source code is licensed under the Apache License 2.0 and documentation, images, and other non-code assets are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). 
